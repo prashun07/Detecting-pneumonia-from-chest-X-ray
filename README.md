@@ -28,3 +28,6 @@ Training accuracy:95.89%(approx),
 Test accuracy:80.7%(approx).
 # ResNet152 model:
 it is used to Draw Class Activation Maps.
+ResNet152 have a very deep network of up to 152 layers by learning the residual representation functions instead of learning the signal representation directly.
+ResNet introduces skip connection (or shortcut connection) to fit the input from the previous layer to the next layer without any modification of the input.
+
