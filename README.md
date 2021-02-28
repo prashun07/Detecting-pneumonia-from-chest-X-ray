@@ -1,4 +1,4 @@
-# Detecting-and-Localizing-pneumonia
+# Detecting-pneumonia-from-chest-X-ray
 ##  About Dataset
 The Dataset is downloaded from Kaggle. Link:https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
